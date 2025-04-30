@@ -1,0 +1,23 @@
+
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100">
+  <!-- Stylized peacock icon -->
+  <g transform="translate(10, 10)">
+    <!-- Peacock head -->
+    <circle cx="20" cy="30" r="4" fill="#008080" />
+    
+    <!-- Fan feathers (arc of dots) -->
+    <circle cx="5" cy="20" r="3" fill="#004466" />
+    <circle cx="10" cy="10" r="3" fill="#004466" />
+    <circle cx="20" cy="5" r="3" fill="#004466" />
+    <circle cx="30" cy="10" r="3" fill="#004466" />
+    <circle cx="35" cy="20" r="3" fill="#004466" />
+    
+    <!-- Neck -->
+    <line x1="20" y1="30" x2="20" y2="45" stroke="#004466" stroke-width="2" />
+  </g>
+
+  <!-- Company name -->
+  <text x="70" y="50" font-family="Futura, 'Segoe UI', sans-serif" font-size="30" fill="#004466">
+    Pfauworks
+  </text>
+</svg>
